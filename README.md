@@ -11,7 +11,7 @@ Other components
 Built using:
   - Keycloak
 
-Hosted on: [Heroku](https://humans-vs-zombies-frontend.herokuapp.com/)
+Hosted on: [Heroku](https://humans-vs-zombies-keycloak.herokuapp.com/)
 
 ## Table of Contents
 
